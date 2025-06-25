@@ -1,5 +1,5 @@
 # single-cycle-cpu
-English/
+### English/
 
 A single cycle CPU with verilog!!!
 
@@ -8,7 +8,7 @@ single cycle cpu file can do the standart cpu functions like lw, sw, add, sub, s
 sra added file is also can be understood by it's name is the sra function added version of the first file
 
 
-Turkish/
+### Turkish/
 
 Verilog ile yapılmış bir single cycle cpu.
 
