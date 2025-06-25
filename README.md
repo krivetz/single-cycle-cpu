@@ -17,4 +17,4 @@ single cycle cpu dosyası stardart cpu işlemlerini yapabilir: lw, sw, add, sub,
 sra added file ise ilk dosyadaki kodun sra fonksiyonu eklenmiş halidir. 
 
 
-![Single Cycle CPU](single cycle cpu.png)
+![Single Cycle CPU](single_cycle_cpu.png)
