@@ -15,3 +15,6 @@ Verilog ile yapılmış bir single cycle cpu.
 single cycle cpu dosyası stardart cpu işlemlerini yapabilir: lw, sw, add, sub, slt, or, and, beq, addi, slti, ori, andi and jal
 
 sra added file ise ilk dosyadaki kodun sra fonksiyonu eklenmiş halidir. 
+
+
+![Single Cycle CPU](single cycle cpu.png)
