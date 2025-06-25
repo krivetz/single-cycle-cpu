@@ -1,7 +1,7 @@
 # single-cycle-cpu
 ### English/
 
-A single cycle CPU with verilog!!!
+A single cycle RISC-V CPU with verilog!!!
 
 single cycle cpu file can do the standart cpu functions like lw, sw, add, sub, slt, or, and, beq, addi, slti, ori, andi and jal.
 
@@ -12,7 +12,7 @@ The using instructions photo is right below.
 
 ### Turkish/
 
-Verilog ile yapılmış bir single cycle cpu.
+Verilog ile yapılmış bir single cycle RISC-V CPU.
 
 single cycle cpu dosyası stardart cpu işlemlerini yapabilir: lw, sw, add, sub, slt, or, and, beq, addi, slti, ori, andi and jal
 
