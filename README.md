@@ -1,4 +1,4 @@
-# single-cycle-cpu
+# single-cycle-cpu-risc-v
 ### English/
 
 A single cycle RISC-V CPU with verilog!!!
